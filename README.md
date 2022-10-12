@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt.Eng@vnsny
+- 👋 Hi,  for any issues contact me at Matt.Eng@vnsny.org
 
 <!---
 MattEng-VNSNY/MattEng-VNSNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
